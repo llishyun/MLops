@@ -1,2 +1,0 @@
-# MLops
-Assignment 1
